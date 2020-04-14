@@ -1,0 +1,12 @@
+E:\source\progect\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp2.2\MyTelegramBot.deps.json
+E:\source\progect\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp2.2\MyTelegramBot.runtimeconfig.json
+E:\source\progect\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp2.2\MyTelegramBot.runtimeconfig.dev.json
+E:\source\progect\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp2.2\MyTelegramBot.dll
+E:\source\progect\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp2.2\MyTelegramBot.pdb
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.csprojAssemblyReference.cache
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.AssemblyInfoInputs.cache
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.AssemblyInfo.cs
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.dll
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.pdb
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.genruntimeconfig.cache
+E:\source\progect\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp2.2\MyTelegramBot.csproj.CoreCompileInputs.cache
